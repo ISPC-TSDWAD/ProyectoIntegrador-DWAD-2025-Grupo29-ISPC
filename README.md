@@ -15,5 +15,9 @@ La propuesta es desarrollada por el Grupo 29: El Proyecto Integrador de la carre
 
 ## Integrantes
 
-Apellido y Nombres         Correo Electronico       Usuraio GIT
-Romero Christian           inesyale@yahoo.es        Grillo2025
+Apellido y Nombres                 Correo Electronico                      Usuraio GIT
+Romero Christian                   inesyale@yahoo.es                       Grillo2025
+Guillen Jonathan Eduardo           jonathan.guillen@mi.unc.edu.ar          JG-UNC
+Velasco Gonzalo Javier             Gonzalo.velasco@mi.unc.edu.ar           g0niii
+Croce Jorge Luis                   dispag.croce@gmail.com                  YorshCr87
+Zanon Manuel                       manuzan123@hotmail.com                  ManuZann
