@@ -14,3 +14,6 @@ La propuesta es desarrollada por el Grupo 29: El Proyecto Integrador de la carre
 
 
 ## Integrantes
+
+Apellido y Nombres         Correo Electronico       Usuraio GIT
+Romero Christian           inesyale@yahoo.es        Grillo2025
