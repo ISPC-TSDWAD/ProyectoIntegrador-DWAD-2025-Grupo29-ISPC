@@ -16,18 +16,11 @@ La propuesta es desarrollada por el Grupo 29: El Proyecto Integrador de la carre
 ## Integrantes
 
 
-| Guillen Jonathan Eduardo  | Velasco Gonzalo Javier |
-| ------------- | ------------- |
-| jonathan.guillen@mi.unc.edu.ar   | Gonzalo.velasco@mi.unc.edu.ar  |
-|  JG-UNC  | g0niii  |
 
-Apellido y Nombres                 Correo Electronico                      Usuraio GIT
-Romero Christian                   inesyale@yahoo.es                       Grillo2025
-Guillen Jonathan Eduardo           jonathan.guillen@mi.unc.edu.ar          JG-UNC
-Velasco Gonzalo Javier             Gonzalo.velasco@mi.unc.edu.ar           g0niii
-Croce Jorge Luis                   dispag.croce@gmail.com                  YorshCr87
-Zanon Manuel                       manuzan123@hotmail.com                  ManuZann
-
+| Guillen Jonathan Eduardo   | Velasco Gonzalo Javier || Croce Jorge Luis    | Zanon Manuel |
+| ------------- | ------------- || ------------- | ------------- |
+| jonathan.guillen@mi.unc.edu.ar  | Gonzalo.velasco@mi.unc.edu.ar  || dispag.croce@gmail.com  | manuzan123@hotmail.com  |
+| JG-UNC  | g0niii  || YorshCr87  | ManuZann  |
 
 Posibles funcionalidades que podría abarcar el sistema:
 
