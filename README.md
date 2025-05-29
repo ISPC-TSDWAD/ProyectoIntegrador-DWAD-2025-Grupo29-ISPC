@@ -15,6 +15,12 @@ La propuesta es desarrollada por el Grupo 29: El Proyecto Integrador de la carre
 
 ## Integrantes
 
+
+| Guillen Jonathan Eduardo  | Velasco Gonzalo Javier |
+| ------------- | ------------- |
+| jonathan.guillen@mi.unc.edu.ar   | Gonzalo.velasco@mi.unc.edu.ar  |
+|  JG-UNC  | g0niii  |
+
 Apellido y Nombres                 Correo Electronico                      Usuraio GIT
 Romero Christian                   inesyale@yahoo.es                       Grillo2025
 Guillen Jonathan Eduardo           jonathan.guillen@mi.unc.edu.ar          JG-UNC
@@ -25,35 +31,35 @@ Zanon Manuel                       manuzan123@hotmail.com                  ManuZ
 
 Posibles funcionalidades que podría abarcar el sistema:
 
-Gestión de Turnos:
-  Reserva de turnos.
-  Consulta de turnos.
-  Actualización de turnos.
-Gestión de Especialidades:
-  Creación de especialidades médicas.
-  Consulta de especialidades médicas.
-  Actualización de especialidades médicas.
-Gestión de Departamentos:
-  Creación de departamentos de estudios médicos.
-  Consulta de departamentos de estudios médicos.
-  Actualización de departamentos de estudios médicos.
-Gestión de Horarios:
-  Creación de horarios de atención.
-  Consulta de horarios de atención.
-  Actualización de horarios de atención.
-Gestión de Personal:
-  Creación de profesionales de la salud.
-  Consulta de profesionales de la salud.
-  Actualización de profesionales de la salud.
-Gestión de Pacientes:
-  Creación de pacientes.
-  Consulta de pacientes.
-  Actualización de pacientes.
-Gestión de Usuarios:
-  Creación de usuarios.
-  Consulta de usuarios.
-  Actualización de usuarios.
-Gestión de Roles:
-  Creación de roles.
-  Consulta de roles.
-  Actualización de roles.
+- Gestión de Turnos:
+  - Reserva de turnos.
+  - Consulta de turnos.
+  - Actualización de turnos.
+-Gestión de Especialidades:
+ - Creación de especialidades médicas.
+ - Consulta de especialidades médicas.
+ - Actualización de especialidades médicas.
+- Gestión de Departamentos:
+ - Creación de departamentos de estudios médicos.
+ - Consulta de departamentos de estudios médicos.
+ - Actualización de departamentos de estudios médicos.
+- Gestión de Horarios:
+ - Creación de horarios de atención.
+ - Consulta de horarios de atención.
+ - Actualización de horarios de atención.
+- Gestión de Personal:
+ - Creación de profesionales de la salud.
+ - Consulta de profesionales de la salud.
+ - Actualización de profesionales de la salud.
+- Gestión de Pacientes:
+ - Creación de pacientes.
+ - Consulta de pacientes.
+ - Actualización de pacientes.
+- Gestión de Usuarios:
+ - Creación de usuarios.
+ - Consulta de usuarios.
+ - Actualización de usuarios.
+- Gestión de Roles:
+ - Creación de roles.
+ - Consulta de roles.
+ - Actualización de roles.
