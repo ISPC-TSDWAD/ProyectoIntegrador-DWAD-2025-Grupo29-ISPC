@@ -2,7 +2,7 @@
 
 Idea de proyecto : 
 
-Sistema de gestión de turnos médicos
+Sistema de gestión de turnos médicos : InstaTURNO
 
 ## Introducción
 
