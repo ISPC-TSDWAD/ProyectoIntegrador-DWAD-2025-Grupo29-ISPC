@@ -1,6 +1,6 @@
 ## DevWebTEAM---Grupo29
 
-Ideas de proyecto : 
+Idea de proyecto : 
 
 Sistema de gestión de turnos médicos
 
